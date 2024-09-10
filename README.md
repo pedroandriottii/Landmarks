@@ -15,5 +15,5 @@ Este aplicativo foi criado como parte do meu processo de aprendizado em **Mobile
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/pedroandriottii/)  
+- [LinkedIn](https://www.linkedin.com/in/pedroandriotti/)  
 - Email: pedrohandriotti@gmail.com
